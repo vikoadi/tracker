@@ -18,6 +18,7 @@ import javax.swing.JFormattedTextField;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JMenuItem;
+import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.JPopupMenu;
 import javax.swing.JScrollPane;
@@ -123,6 +124,7 @@ public class MainWindow extends JFrame implements ActionListener{
             
         });
         toolbar.add(editGS);
+
         
         JButton updateTLE = new JButton("Update TLE");
         updateTLE.addMouseListener(new MouseListener(){
@@ -149,6 +151,42 @@ public class MainWindow extends JFrame implements ActionListener{
         
         JButton about = new JButton("About");
         toolbar.add(about);
+        about.addMouseListener(new MouseListener(){
+
+            @Override
+            public void mouseClicked(MouseEvent arg0) {
+                // TODO Auto-generated method stub
+                
+            }
+
+            @Override
+            public void mouseEntered(MouseEvent arg0) {
+                // TODO Auto-generated method stub
+                
+            }
+
+            @Override
+            public void mouseExited(MouseEvent arg0) {
+                // TODO Auto-generated method stub
+                
+            }
+
+            @Override
+            public void mousePressed(MouseEvent arg0) {
+                // TODO Auto-generated method stub
+                
+            }
+
+            @Override
+            public void mouseReleased(MouseEvent arg0) {
+                JOptionPane.showMessageDialog(null, "writen by Viko Adi Rahmawan <vikoadi@gmail.com>\n\n" +
+                        		"This program is published under the terms of the gpl license,\n" +
+                        		" it comes with ABSOLUTELY NO WARRANTY; for details,\n" +
+                        		" visit http://www.gnu.org/licenses/gpl.html","Tracker -- Satelite Tracker"
+                                , JOptionPane.PLAIN_MESSAGE);
+            }
+            
+        });
         
         
         satTable = new JTable();
