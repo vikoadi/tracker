@@ -6,6 +6,7 @@ import java.awt.Graphics;
 import java.awt.Image;
 import java.awt.Polygon;
 import java.awt.Toolkit;
+import java.net.URL;
 import java.util.Date;
 import java.util.List;
 
@@ -24,7 +25,8 @@ public class EarthCanvas extends Canvas {
     
     @Override
     public void paint(Graphics graphics){
-        Image img = Toolkit.getDefaultToolkit().getImage("resources/main/earth-map-med.jpg");
+        URL path =  getClass().getClassLoader().getResource("earth-map-med.jpg");
+        Image img = Toolkit.getDefaultToolkit().getImage(path);
         int height = getHeight();
         int width = getWidth();
         if (width/height < aspectRatio){
