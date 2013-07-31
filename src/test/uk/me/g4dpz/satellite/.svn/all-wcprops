@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/162/trunk/src/test/uk/me/g4dpz/satellite
+END
+SatPassTimeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/153/trunk/src/test/uk/me/g4dpz/satellite/SatPassTimeTest.java
+END
+SatelliteFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/153/trunk/src/test/uk/me/g4dpz/satellite/SatelliteFactoryTest.java
+END
+DeepSpaceSatelliteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/158/trunk/src/test/uk/me/g4dpz/satellite/DeepSpaceSatelliteTest.java
+END
+PassPredictorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/155/trunk/src/test/uk/me/g4dpz/satellite/PassPredictorTest.java
+END
+TLETest.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/139/trunk/src/test/uk/me/g4dpz/satellite/TLETest.java
+END
+IlluminationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/153/trunk/src/test/uk/me/g4dpz/satellite/IlluminationTest.java
+END
+AbstractSatelliteTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/153/trunk/src/test/uk/me/g4dpz/satellite/AbstractSatelliteTestBase.java
+END
+GroundStationPositionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/153/trunk/src/test/uk/me/g4dpz/satellite/GroundStationPositionTest.java
+END
+LEOSatelliteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/162/trunk/src/test/uk/me/g4dpz/satellite/LEOSatelliteTest.java
+END
+SatPosTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/162/trunk/src/test/uk/me/g4dpz/satellite/SatPosTest.java
+END

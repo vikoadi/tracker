@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/140/trunk/lib/test
+END
+joda-time-jar-1.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/140/trunk/lib/test/joda-time-jar-1.6.jar
+END
+qdox-1.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/lib/test/qdox-1.5.jar
+END
+testutil.jar
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/trunk/lib/test/testutil.jar
+END
+junit-4.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/trunk/lib/test/junit-4.5.jar
+END
+ant-task-1.3.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/96/trunk/lib/test/ant-task-1.3.2.jar
+END

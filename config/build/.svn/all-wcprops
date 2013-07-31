@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/155/trunk/config/build
+END
+Eclipse-CodeTemplate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/3/trunk/config/build/Eclipse-CodeTemplate.xml
+END
+checkstyle-noframes-sorted.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3/trunk/config/build/checkstyle-noframes-sorted.xsl
+END
+checkstyle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/21/trunk/config/build/checkstyle.xml
+END
+Eclipse-CodeFormatter.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/155/trunk/config/build/Eclipse-CodeFormatter.xml
+END
+Eclipse-CodeCleanUp.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/3/trunk/config/build/Eclipse-CodeCleanUp.xml
+END
+checkstyle-additional.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/152/trunk/config/build/checkstyle-additional.xml
+END

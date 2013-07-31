@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 23
+/svn/!svn/ver/163/trunk
+END
+predict4java.build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/113/trunk/predict4java.build.properties
+END
+.checkstyle
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/3/trunk/.checkstyle
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/113/trunk/build.xml
+END
+version.properties
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3/trunk/version.properties
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/140/trunk/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/3/trunk/.project
+END
+.fbprefs
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/155/trunk/.fbprefs
+END

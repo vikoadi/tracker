@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/113/trunk/lib/test/findbugs
+END
+commons-lang-2.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/113/trunk/lib/test/findbugs/commons-lang-2.4.jar
+END
+asm-tree-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/113/trunk/lib/test/findbugs/asm-tree-3.1.jar
+END
+annotations.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/113/trunk/lib/test/findbugs/annotations.jar
+END
+dom4j-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/113/trunk/lib/test/findbugs/dom4j-1.6.1.jar
+END
+asm-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/113/trunk/lib/test/findbugs/asm-3.1.jar
+END
+findbugs.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/113/trunk/lib/test/findbugs/findbugs.jar
+END
+jaxen-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/113/trunk/lib/test/findbugs/jaxen-1.1.1.jar
+END
+bcel.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/113/trunk/lib/test/findbugs/bcel.jar
+END
+jsr305.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/113/trunk/lib/test/findbugs/jsr305.jar
+END
+asm-commons-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/113/trunk/lib/test/findbugs/asm-commons-3.1.jar
+END
+jFormatString.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/113/trunk/lib/test/findbugs/jFormatString.jar
+END
